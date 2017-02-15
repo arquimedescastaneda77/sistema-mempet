@@ -1,5 +1,0 @@
-https://docs.moodle.org/all/es/Reportes_de_consultas_personalizadas_SQL
-
-php postgres fetch array conversion to mysql
-
-http://stackoverflow.com/questions/8811707/php-postgres-fetch-array-conversion-to-mysql
